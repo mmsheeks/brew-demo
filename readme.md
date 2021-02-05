@@ -1,6 +1,10 @@
-# Homebrew
+# Homebrew Demo
 
-Mostly just me fucking around trying to build a framework from the ground up.
+This is an example application running the [Homebrew](https://github.com/mmsheeks/homebrew) framework.
+
+## Notice
+
+Homebrew has not been sufficiently tested and should not be used in production environments. Proceed at your own risk.
 
 ### Changelog
 
